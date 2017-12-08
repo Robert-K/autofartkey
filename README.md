@@ -11,4 +11,7 @@ AutoFartkey is a small immature [AutoHotkey](https://autohotkey.com/) Script I w
 - Fart counter - So there's no denial that it was you...
 - Hidden when active - reopen with F2
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 The included sound files are from [Jagadamba @ freesound.org](https://freesound.org/people/Jagadamba/packs/15564/).
