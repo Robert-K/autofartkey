@@ -2,7 +2,7 @@
 The peak of technology. Pressing any key causes your PC to fart.
 
 ## WTF is it exactly?
-AutoFartkey is a small immature [AutoHotkey](https://autohotkey.com/) Script I wrote for fun. It listens for keypresses and plays random fart sounds.
+AutoFartkey is a small immature [AutoHotkey](https://autohotkey.com/) Script I wrote for fun. It listens for keypresses and plays random fart sounds. It is also incredibly effective at annoying people.
 
 ## Features
 - Changeable sound folder - Play your own sounds! (wav, ogg & mp3)
