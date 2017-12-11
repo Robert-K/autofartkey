@@ -12,6 +12,6 @@ AutoFartkey is a small immature [AutoHotkey](https://autohotkey.com/) Script I w
 - Hidden when active - reopen with F2
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 The included sound files are from [Jagadamba @ freesound.org](https://freesound.org/people/Jagadamba/packs/15564/).
