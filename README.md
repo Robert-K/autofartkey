@@ -1,7 +1,7 @@
 # AutoFartkey :poop:
 The peak of technology. Pressing any key causes your PC to fart.
 
-## AutoHotKey is not required to run the executable!
+### AutoHotKey is not required to run the executable!
 
 ## WTF is it exactly?
 AutoFartkey is a small immature [AutoHotkey](https://autohotkey.com/) Script I wrote for fun. It listens for keypresses and plays random fart sounds. It is also incredibly effective at annoying people.
