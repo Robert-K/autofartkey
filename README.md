@@ -17,3 +17,5 @@ AutoFartkey is a small immature [AutoHotkey](https://autohotkey.com/) Script I w
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 The included sound files are from [Jagadamba @ freesound.org](https://freesound.org/people/Jagadamba/packs/15564/).
+
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
